@@ -1,8 +1,19 @@
 {
-  "name": "fx",
+  "name": "@water102/fx",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "repository": "https://github.com/water102/fx.git",
-  "author": "hoannn <water102.f1@gmail.com>",
-  "license": "MIT"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/water102/fx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/water102/fx/issues"
+  },
+  "homepage": "https://github.com/water102/fx#readme"
 }
